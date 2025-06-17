@@ -1,2 +1,8 @@
 # best-repo-ever
-no hay cambios
+HEAD
+
+
+hay cosas que no son necesarias
+salty the boyz
+new jeans
+origin/main
